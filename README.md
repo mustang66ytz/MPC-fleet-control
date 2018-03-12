@@ -8,7 +8,7 @@ This is a project about autonomous fleet management
 check out the visualization [here](http://www.oparp.com/car)
 
 # Video
-check ou the presentation video [here] (https://www.youtube.com/watch?v=ygCt9VUz-YA)
+check ou the presentation video [here](https://www.youtube.com/watch?v=ygCt9VUz-YA)
 
 # Contributors:
 - Jinyun Zhou (leading car)
